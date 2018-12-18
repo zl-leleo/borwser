@@ -221,4 +221,4 @@ function matchUserAgent(userAge){
 	}
 	return type + "/" +systemType +"/"+cpuBit+"/"+ systemVersion +"/"+ browser + "/" + browserVersion + "/" + coop
 }
-exports = module.exports = matchUserAgent
+
